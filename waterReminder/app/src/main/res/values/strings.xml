@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">waterReminder</string>
+    <string name="todo" />
+    <string name="_5_seconds" />
+    <string name="_10_seconds" />
+    <string name="_30_seconds" />
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="got_it">GOT IT</string>
+    <string name="welcome">Intro slider example by Tutorialwing.com</string>
+    <string name="slide1_desc">An app that will remind you to drink water regularly!</string>
+    <string name="slide1_title">Welcome to WaterReminder</string>
+    <string name="slide2_title">68.7% of fresh water on Earth is trapped in glaciers.</string>
+    <string name="slide3_title">70% of the human brain is water.</string>
+    <string name="slide4_title">Did you know you had to drink half your weight in ounces to meet your daily water intake needs?</string>
+    <string name="slide4_desc">Click next for more</string>
+    <string name="get_started">Get Started</string>
+</resources>
